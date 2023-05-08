@@ -87,6 +87,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
                             _searchTextController!.clear();
                             _searchTextFocusNode.unfocus();
                           },
+                          // close Icon
                           icon: Icon(
                             Icons.close,
                             color: _searchTextFocusNode.hasFocus

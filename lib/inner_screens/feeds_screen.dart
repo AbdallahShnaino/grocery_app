@@ -38,6 +38,7 @@ class _FeedsScreenState extends State<FeedsScreen> {
   List<ProductModel> listProdcutSearch = [];
   @override
   Widget build(BuildContext context) {
+    //Show all product
     final Color color = Utils(context).color;
     Size size = Utils(context).getScreenSize;
     final productsProvider = Provider.of<ProductsProvider>(context);

@@ -319,6 +319,7 @@ class _ProductDetailsState extends State<ProductDetails> {
                                       //         _quantityTextController.text));
                                     },
                               borderRadius: BorderRadius.circular(10),
+                              //if the product not in cart add in cart
                               child: Padding(
                                   padding: const EdgeInsets.all(12.0),
                                   child: TextWidget(
