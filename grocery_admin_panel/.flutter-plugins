@@ -1,0 +1,22 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/abdallah/.pub-cache/hosted/pub.dev/cloud_firestore-3.5.1/
+cloud_firestore_web=/home/abdallah/.pub-cache/hosted/pub.dev/cloud_firestore_web-2.8.10/
+firebase_core=/home/abdallah/.pub-cache/hosted/pub.dev/firebase_core-1.24.0/
+firebase_core_web=/home/abdallah/.pub-cache/hosted/pub.dev/firebase_core_web-1.7.3/
+firebase_storage=/home/abdallah/.pub-cache/hosted/pub.dev/firebase_storage-10.3.11/
+firebase_storage_web=/home/abdallah/.pub-cache/hosted/pub.dev/firebase_storage_web-3.3.9/
+flutter_native_splash=/home/abdallah/.pub-cache/hosted/pub.dev/flutter_native_splash-2.2.19/
+flutter_plugin_android_lifecycle=/home/abdallah/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.14/
+fluttertoast=/home/abdallah/.pub-cache/hosted/pub.dev/fluttertoast-8.2.1/
+image_picker=/home/abdallah/.pub-cache/hosted/pub.dev/image_picker-0.8.7+4/
+image_picker_android=/home/abdallah/.pub-cache/hosted/pub.dev/image_picker_android-0.8.6+12/
+image_picker_for_web=/home/abdallah/.pub-cache/hosted/pub.dev/image_picker_for_web-2.1.12/
+image_picker_ios=/home/abdallah/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.7+3/
+path_provider_linux=/home/abdallah/.pub-cache/hosted/pub.dev/path_provider_linux-2.1.10/
+path_provider_windows=/home/abdallah/.pub-cache/hosted/pub.dev/path_provider_windows-2.1.6/
+shared_preferences=/home/abdallah/.pub-cache/hosted/pub.dev/shared_preferences-2.1.1/
+shared_preferences_android=/home/abdallah/.pub-cache/hosted/pub.dev/shared_preferences_android-2.1.4/
+shared_preferences_foundation=/home/abdallah/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.2.2/
+shared_preferences_linux=/home/abdallah/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.2.0/
+shared_preferences_web=/home/abdallah/.pub-cache/hosted/pub.dev/shared_preferences_web-2.1.0/
+shared_preferences_windows=/home/abdallah/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.2.0/
